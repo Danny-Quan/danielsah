@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>hi.</template>
+  </category>
+<category>
+    <pattern>hello there</pattern>
+    <template>hi, how are you doing?</template>
+</category>
+<category>
+    <pattern>am doing great and you </pattern>
+    <template>am also doing good</template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
